@@ -1,5 +1,6 @@
 
 """ epsilon greedy method - stationary environment """
+""" learning rate is considered as 1/n"""
 """ kianfarooghi@gmail.com """
 
 # generate random Gaussian values
