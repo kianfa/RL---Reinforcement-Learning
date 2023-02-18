@@ -2,7 +2,11 @@
 """ epsilon greedy method - stationary environment """
 """ learning rate is considered as 1/n"""
 """ kianfarooghi@gmail.com """
-
+"""
+he exact code is presented in Matlab language 
+Check it out in Python folder in Github
+https://github.com/kianfa/RL---Reinforcement-Learning/edit/main/Matlab%20Codes/epsGreedy.m
+"""
 # generate random Gaussian values
 from numpy import random
 import numpy as np
