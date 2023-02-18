@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
-""" epsilon greedy method"""
 
+""" epsilon greedy method"""
+""" kianfarooghi@gmail.com """
 
 # generate random Gaussian values
 from numpy import random
