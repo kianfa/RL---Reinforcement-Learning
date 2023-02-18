@@ -1,5 +1,5 @@
 
-""" epsilon greedy method"""
+""" epsilon greedy method - stationary environment """
 """ kianfarooghi@gmail.com """
 
 # generate random Gaussian values
