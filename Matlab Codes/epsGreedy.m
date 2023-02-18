@@ -1,6 +1,12 @@
 %{
 kianfarooghi@gmail.com
+epsilon greedy method - stationary environment
+learning rate is considered as 1/n 
 
+
+The exact code is presented in Python language 
+Check it out in Python folder in Github 
+https://github.com/kianfa/RL---Reinforcement-Learning/blob/main/python%20codes/eps_greedy.py
 %}
 
 clc;
